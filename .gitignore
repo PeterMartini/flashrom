@@ -1,0 +1,7 @@
+*.o
+*.d
+.libdeps
+flashrom
+flashrom.8
+.features
+ich_descriptors_tool
